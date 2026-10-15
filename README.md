@@ -1,1 +1,4 @@
-# Student-Management
+# Student Management Application
+
+# Feature: Add student registration.
+
